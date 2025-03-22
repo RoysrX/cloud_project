@@ -43,4 +43,4 @@ Step 4: Access Your Blog
 
 Once CloudFront finishes deploying (~5-10 mins).
 Open the CloudFront Domain Name (e.g., d123xyz.cloudfront.net).
-🎉 Your blog is now live!
+blog is now live!
